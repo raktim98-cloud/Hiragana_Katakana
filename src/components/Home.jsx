@@ -92,7 +92,8 @@ function Quiz({ title, PAIRS }) {
         {title}
       </h1>
       <h1 className="text-2xl font-bold text-center mb-6">
-        An-Noor Japanese Language School, Created By:- <span className="bg-blue-300 text-black text-xl font-bold px-2 py-1 rounded-[10px]">Shuvrow Adhikary</span>
+        An-Noor Japanese Language School, Created By:- 
+        <h2><span className="bg-blue-300 text-black text-xl font-bold px-2 py-1 rounded-[10px]">Shuvrow Adhikary</span></h2>
       </h1>
 
       <div className="flex justify-center gap-2 mb-6">
